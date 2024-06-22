@@ -15,7 +15,7 @@ MNIST: El yazısı rakamlardan oluşan 10 sınıflı bir veri seti.
  Fashion MNIST (giysi ve aksesuar görüntüleri) ve MNIST (el yazısı rakamlar) veri setleri hakkında bilgi.
 <H2>Uygulanan Modeller</H2>
 
- KNN, Lojistik Regresyon, Rastgele Orman, Karar Ağacı, Gradyan Artırma, SVM ve derin öğrenme modelleri gibi çeşitli algoritmaların uygulamaları.
+ KNN, Lojistik Regresyon, Random Forest, Karar Ağacı, Gradyan Artırma, SVM ve derin öğrenme modelleri gibi çeşitli algoritmaların uygulamaları.
 <H2>Temel Bulgular</H2>
 
  Model performanslarının karşılaştırılması, hiperparametre optimizasyonu, derin öğrenme modellerinin üstünlüğü ve confusion matrix analizleri.
